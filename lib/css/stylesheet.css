@@ -1,0 +1,34 @@
+html {
+	background: url(../images/background-image.jpg) no-repeat center fixed;
+}
+body {
+ 	background-color: rgba(245,245,245,.25);
+ 	color: chocolate;
+ }
+header {
+ 	background-color: lightgreen;
+ }
+.main-content {
+ 	background-color: rgba(245,245,245,.25);
+ }
+footer {
+ 	background-color: lightgreen;
+ }
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+ 	display: flex;
+ 	flex-direction: column;
+ 	min-height: 100vh;
+ }
+
+.sfooter-content {
+  flex : 1 0 auto;
+ }
