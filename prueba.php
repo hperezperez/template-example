@@ -1,5 +1,5 @@
-<?php
-
+<DOCTYPE html
+<html>
 	<head> Arriba Mexico</head>
 
 		<body>
@@ -10,6 +10,6 @@
 
 
 		</body>
-
+<html>
 
 
