@@ -1,4 +1,4 @@
-<! DOCTYPE hmtl
+<! DOCTYPE html>
 <hmtl>
 
 
@@ -6,7 +6,7 @@
 		<head>Arriba Mexico</head>
 		  <h1>Lo Mejor en Productos Mexicanos</h1>
 		  <p> Autenticos</p>
-         <img src ="lib/dulces.jpg" alt="action"
+         <img src="cellular.jpg" alt="action"
 
 			<h2> saludos<h2>
 
