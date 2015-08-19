@@ -4,7 +4,7 @@
 
 		<body>
 		  <h1>Lo Mejor en Productos Mexicanos</h1>
-         <img src="images/background-image.jpg"
+         <img src="lib/images/background-image.jpg"
 
 
 
