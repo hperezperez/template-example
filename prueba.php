@@ -5,7 +5,7 @@
 		<body>
 		  <h1>Lo Mejor en Productos Mexicanos</h1>
 		  <p> Autenticos</p>
-         <img src ="images/pinatas.jpg" alt="action"
+         <img src ="cellular.jpg" alt="action"
 
 
 
